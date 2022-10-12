@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thoreg
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on software projects written in Python, Django, Rust which turn the world to the better
+- 📫 How to reach me: thoreg @@ gmail dot com
