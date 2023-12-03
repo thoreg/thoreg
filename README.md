@@ -1,1 +1,2 @@
-[wvAvEpt.webm](https://github.com/thoreg/thoreg/assets/540010/a9dd08e4-3a2c-4861-ae8c-b8d434fcfb2f)
+
+![vi_visual_studio_code](https://github.com/thoreg/thoreg/assets/540010/168382eb-2bf9-463b-bfe1-0fd76d17f11e)
